@@ -20,14 +20,3 @@ MPI-real:
 4 cpu: 0m17.012s
 8 cpu: 0m12.543s
 16 cpu: 0m9.204s
-
-MPI-smanglit sa fie mai ok prin comparatie:
-
-1 cpu: 0m68.159s
-2 cpu: 0m41.979s
-4 cpu: 0m27.012s
-8 cpu: 0m21.543s
-16 cpu: 0m14.204s
-
-
-
